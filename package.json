@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.13.3",
+    "mongodb": "^3.3.2",
     "oracledb": "^4.0.1"
   },
   "engines": {
